@@ -17,6 +17,6 @@ O **Termux Sentinel** é uma ferramenta leve de auditoria de segurança de rede 
 ## 📦 Como Executar
 
 1. Clone este repositório:
-   ```bash
+```bash
    git clone [https://github.com/TMaia09/TermuxSentinel.git](https://github.com/TMaia09/TermuxSentinel.git)
    cd TermuxSentinel
